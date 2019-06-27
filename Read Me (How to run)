@@ -1,0 +1,24 @@
+Path to ReplicaViewer:
+
+./home/samsungpc/Replica/Replica-Dataset/build/ReplicaSDK/ReplicaViewer
+
+Go to replica_v1 directory:
+
+/home/samsungpc/Replica/Replica-Dataset/replica_v1
+
+Choose a replica
+cd to that replica
+
+Activate Replica environment:
+source activate replicaenv
+
+
+Run:
+
+<path to Replica Viewer> mesh.ply textures glass.sur
+
+/home/samsungpc/Replica/Replica-Dataset/build/ReplicaSDK/ReplicaViewer mesh.ply textures glass.sur
+
+/home/samsungpc/Replica/Replica-Dataset/build/ReplicaSDK/ReplicaRenderer mesh.ply textures glass.sur
+
+
